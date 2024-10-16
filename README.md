@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/baekhum/jjuns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baekhum/jjuns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/baekhum/jjuns/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baekhum/jjuns/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/baekhum/jjuns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
