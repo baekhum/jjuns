@@ -1,10 +1,7 @@
 class Solution(object):
-    def climbStairs(self, n):
-        climb_map = {1: 1, 2: 2}
-        if n <= 2:
-            return climb_map[n]
-        
-        for i in range(3, n+1):
-            climb_map[i] = climb_map[i-1] + climb_map[i-2] 
-        
+    def climbStairs(self, n, climb_map = {}):
+        if n not in climb_map:
+            if n < 3:
+                return n
+            climb_map[n] = self.climbStairs(n - 1) + self.climbStairs(n - 2) 
         return climb_map[n]
